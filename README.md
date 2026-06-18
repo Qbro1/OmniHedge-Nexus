@@ -17,30 +17,18 @@
 
 ---
 
-## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [Architecture](#-architecture)
-- [Key Features](#-key-features)
-- [Technical Deep Dive](#-technical-deep-dive)
-- [Gas Optimization](#-gas-optimization)
-- [Security](#-security)
-- [Getting Started](#-getting-started)
-- [Deployment](#-deployment)
-- [Testing](#-testing)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 **OmniHedge Nexus** is a next-generation DeFi protocol that autonomously protects user funds from market crashes and network-specific risks. By combining **four Chainlink services** into a single unified pipeline, it creates an intelligent hedging mechanism that:
 
-- 📊 **Monitors** asset prices in real-time via Chainlink Data Feeds
-- 🤖 **Analyzes** market sentiment through off-chain AI models
-- ⚡ **Automates** risk assessment without manual intervention
-- 🌉 **Migrates** liquidity cross-chain to safer networks when needed
+-  **Monitors** asset prices in real-time via Chainlink Data Feeds
+-  **Analyzes** market sentiment through off-chain AI models
+-  **Automates** risk assessment without manual intervention
+-  **Migrates** liquidity cross-chain to safer networks when needed
 
 > **The Problem:** DeFi users lose millions during sudden market crashes or when a specific blockchain becomes vulnerable.
 >
@@ -48,4 +36,3 @@
 
 ---
 
-## 🏗️ Architecture
